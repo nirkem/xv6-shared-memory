@@ -91,6 +91,7 @@ log_test: 114 messages, 4072 of 4096 bytes used
 
 ## Credits
 
+The shared-memory and logging extensions were developed by **Nir** and **Tal** as a pair project.
+
 The xv6 base is © Frans Kaashoek, Robert Morris and Russ Cox (MIT license, see [`LICENSE`](LICENSE)
-and [`README`](README)). The shared-memory and logging extensions were written for this course
-assignment.
+and [`README`](README)).
