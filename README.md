@@ -6,6 +6,8 @@ in user space.
 
 Built for the Operating Systems course (202.1.3031) at Ben-Gurion University of the Negev.
 
+**Case study:** [nirmichalovitz.com/projects/xv6-shared-memory](https://nirmichalovitz.com/projects/xv6-shared-memory)
+
 ## What it does
 
 ### 1. Kernel: shared memory between processes
